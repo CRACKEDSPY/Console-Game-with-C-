@@ -1,0 +1,8 @@
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\bin\Debug\Game With C.exe.config
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\bin\Debug\Game With C.exe
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\bin\Debug\Game With C.pdb
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\obj\Debug\Game With C.csproj.AssemblyReference.cache
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\obj\Debug\Game With C.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\obj\Debug\Game With C.csproj.CoreCompileInputs.cache
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\obj\Debug\Game With C.exe
+C:\Users\Nevzat Anıl\Desktop\C#\Game With C\Game With C\obj\Debug\Game With C.pdb
